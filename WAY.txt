@@ -1,0 +1,5 @@
+ay01	valve	ES	s01	abc supplier	0123231433	abc@gmail.com	28	35	
+ay04	hood	BWS	s04	dee supplier	0143411309	dee@gmail.com	7	50	
+ay03	fender	BWS	s03	cde supplier	0134832892	cde@yahoo.com	8	45	
+ay02	camshaft	ES	s02	bcd supplier	0134234325	bcd@gmail.com	27	20	
+ay05	dryer	AS	s05	efg supplier	0162814721	efg@yahoo.com	35	25

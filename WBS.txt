@@ -1,0 +1,5 @@
+bs04	bonnet	BWS	s04	dee supplier	0143411309	dee@gmail.com	9	100	
+bs05	compressor	AS	s05	efg supplier	0162814721	efg@yahoo.com	36	40	
+bs02	piston	ES	s02	bcd supplier	0134234325	bcd@gmail.com	34	30	
+bs03	bumper	BWS	s03	cde supplier	0134832892	cde@yahoo.com	15	80	
+bs01	timing chain	ES	s01	abc supplier	0123231433	abc@gmail.com	30	40	

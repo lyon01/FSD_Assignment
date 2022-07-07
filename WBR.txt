@@ -1,0 +1,5 @@
+br03	tailgate	BWS	s03	cde supplier	0134832892	cde@yahoo.com	8	48	
+br04	door	BWS	s04	dee supplier	0143411309	dee@gmail.com	36	50	
+br05	condenser	AS	s05	efg supplier	0162814721	efg@yahoo.com	9	42	
+br02	pulley	ES	s02	bcd supplier	0134234325	bcd@gmail.com	25	15	
+br01	flywheel	ES	s01	abc supplier	0123231433	abc@gmail.com	21	20	
